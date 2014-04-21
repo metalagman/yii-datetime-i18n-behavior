@@ -1,6 +1,6 @@
 {
-    "name": "lagman/yii-i18n-behavior",
-    "description": "Yii I18N DateTime Behavior",
+    "name": "lagman/yii-datetime-i18n-behavior",
+    "description": "Yii DateTime I18N Behavior",
     "license": "MIT",
     "authors": [
         {
